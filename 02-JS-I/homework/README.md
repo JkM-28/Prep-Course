@@ -6,11 +6,13 @@
 
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
- * Variables
- * Strings
- * Funciones (argumentos, `return`)
+ * Variables :  Es el dato que puede variar dentro del programa es decir puede cambiar su valor.
+ * Strings : Es una cadena de cararcteres es decir como una palabra.
+ * Funciones (argumentos, `return`):
+            -  ARGUMENTOS: Es el medio por el cual se le atrivulle un valor a una funcion.
+            - RETURN: Medio por el cual se exponen los resultados de una funcion.
  * Declaraciones `if`
- * Valores booleanos (`true`, `false`)
+ * Valores booleanos (`true`, `false`): Dicen si es verdadera o falsa una funcion 
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
